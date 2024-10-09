@@ -12,7 +12,7 @@ using _5LetrasBanco.Models;
 namespace _5LetrasBanco.Migrations
 {
     [DbContext(typeof(Contexto))]
-    [Migration("20241009143954_Criacao")]
+    [Migration("20241009171711_Criacao")]
     partial class Criacao
     {
         /// <inheritdoc />

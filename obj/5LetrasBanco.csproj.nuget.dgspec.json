@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\OneDrive\\Área de Trabalho\\5LetrasBanco\\5LetrasBanco\\5LetrasBanco.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\sprint 5\\5Letras-Banco\\5LetrasBanco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\OneDrive\\Área de Trabalho\\5LetrasBanco\\5LetrasBanco\\5LetrasBanco.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\sprint 5\\5Letras-Banco\\5LetrasBanco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\OneDrive\\Área de Trabalho\\5LetrasBanco\\5LetrasBanco\\5LetrasBanco.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\sprint 5\\5Letras-Banco\\5LetrasBanco.csproj",
         "projectName": "5LetrasBanco",
-        "projectPath": "C:\\Users\\Aluno\\OneDrive\\Área de Trabalho\\5LetrasBanco\\5LetrasBanco\\5LetrasBanco.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\sprint 5\\5Letras-Banco\\5LetrasBanco.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\OneDrive\\Área de Trabalho\\5LetrasBanco\\5LetrasBanco\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\sprint 5\\5Letras-Banco\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
