@@ -65,10 +65,6 @@ body {
     font-size: 17px;
 }
 
-
-
-
-
 .navbar-light .navbar-nav .nav-link {
     margin-left: 55px !important;
     font-weight: 600;
@@ -76,12 +72,12 @@ body {
 }
 
 a {
-    color: #B4858F;
+    color: #8C52FF;
     text-decoration: none;
 }
 
     a:hover {
-        color: #8B6A71 !important;
+        color: #6635C7 !important;
     }
 
 .info {
@@ -89,12 +85,12 @@ a {
     padding: 20px;
     border-radius: 15px;
     border: 2px solid #EFD7E5;
-    color: #393939;
+    color: #8C52FF;
     margin-top: 50px;
 }
 
 .form-control:focus {
-    box-shadow: 0 0 0 0.20rem #CDA4AA !important;
+    box-shadow: 0 0 0 0.20rem #2F8098 !important;
     background-color: whitesmoke !important;
     border-color: #B78592 !important;
 }
@@ -115,4 +111,17 @@ input.btn.btn-primary {
 
 dt {
     margin-bottom: 15px !important;
+}
+
+.div-textoroxo {
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+
+.textoroxo {
+    font-weight: 660;
+    font-size: 30px;
+    margin-bottom: -6px;
+    text-align: center;
+    color: rgba(102, 53, 199, 1);
 }
