@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "7/mzWKyJi4R7T0uF34fCVwvoowMjsyeXlIom6A0/FIc=",
+=======
+  "Hash": "Q5iyfH575gQ+cCao6nnysk8cc9Kza2xYpOscORxSvaE=",
+>>>>>>> 4a407a6c5d5d659d86cd05276178569dc45c3563
   "Source": "5LetrasBanco",
   "BasePath": "_content/5LetrasBanco",
   "Mode": "Default",
@@ -85,7 +89,28 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Aluno\\Desktop\\5LetrasBanco\\wwwroot\\js\\site.js",
+=======
+      "Identity": "C:\\Users\\Aluno\\Desktop\\sprint 5\\5Letras-Banco\\wwwroot\\img\\logo.png",
+      "SourceId": "5LetrasBanco",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\sprint 5\\5Letras-Banco\\wwwroot\\",
+      "BasePath": "_content/5LetrasBanco",
+      "RelativePath": "img/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Desktop\\sprint 5\\5Letras-Banco\\wwwroot\\js\\site.js",
+>>>>>>> 4a407a6c5d5d659d86cd05276178569dc45c3563
       "SourceId": "5LetrasBanco",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Aluno\\Desktop\\5LetrasBanco\\wwwroot\\",

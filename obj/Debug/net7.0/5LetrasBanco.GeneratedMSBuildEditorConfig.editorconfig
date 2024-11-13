@@ -24,10 +24,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Alunos/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Aluno/Desktop/5LetrasBanco/Views/Alunos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,10 +38,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Aluno/Desktop/5LetrasBanco/Views/Avaliacao/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZhbGlhY2FvXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Avaliacao/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZhbGlhY2FvXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Aluno/Desktop/5LetrasBanco/Views/Avaliacao/Edit.cshtml]
@@ -64,10 +56,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tZW50YXJpb1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Comentario/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tZW50YXJpb1xEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Aluno/Desktop/5LetrasBanco/Views/Comentario/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tZW50YXJpb1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -82,10 +70,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Aluno/Desktop/5LetrasBanco/Views/Conteudo/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGV1ZG9cRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Conteudo/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGV1ZG9cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Aluno/Desktop/5LetrasBanco/Views/Conteudo/Edit.cshtml]
@@ -104,10 +88,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV2aWRhXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Duvida/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV2aWRhXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Aluno/Desktop/5LetrasBanco/Views/Duvida/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV2aWRhXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -120,20 +100,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Aluno/Desktop/5LetrasBanco/Views/Materias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Aluno/Desktop/5LetrasBanco/Views/Materias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYXNcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Materias/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Aluno/Desktop/5LetrasBanco/Views/Materias/Edit.cshtml]
@@ -150,10 +122,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Aluno/Desktop/5LetrasBanco/Views/Professor/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Professor/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Aluno/Desktop/5LetrasBanco/Views/Professor/Edit.cshtml]

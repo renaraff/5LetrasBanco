@@ -1,12 +1,13 @@
 ﻿@model _5LetrasBanco.Models.Comentario
 
+
 @{
-    ViewData["Title"] = "Edit";
+    ViewData["Title"] = "Editar";
 }
 
-<h1>Edit</h1>
+<h1>Editar Comentario</h1>
 
-<h4>Comentario</h4>
+<hr />
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -39,14 +40,14 @@
                 <span asp-validation-for="ComentarioTexto" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+                <input type="submit" value="Salvar" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index">Voltar</a>
 </div>
 
 @section Scripts {

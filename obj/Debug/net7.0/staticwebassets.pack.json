@@ -13,7 +13,15 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\Aluno\\Desktop\\5LetrasBanco\\wwwroot\\js\\site.js",
+=======
+      "Id": "C:\\Users\\Aluno\\Desktop\\sprint 5\\5Letras-Banco\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Desktop\\sprint 5\\5Letras-Banco\\wwwroot\\js\\site.js",
+>>>>>>> 4a407a6c5d5d659d86cd05276178569dc45c3563
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
