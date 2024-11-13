@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KTRsb2ZVapUpURdtJBTO5Kyt8n9pj3ksXlvn+FshKs6jiXMaAo+AH1EOUCBeykzwA42fJrob7+k/LDH+Ual03Q==",
+  "dgSpecHash": "SMzSEnKTWPmmr955XnYqVvfEwyBn58ThZRY+gyrFsCd7iKjrVdrAGQ4vkInJTFOknXFI3JXrBRX/IMpeazT5yQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\sprint 5\\5Leters-Banco\\5LetrasBanco.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\sprint 5\\5Letras-Banco\\5LetrasBanco.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
