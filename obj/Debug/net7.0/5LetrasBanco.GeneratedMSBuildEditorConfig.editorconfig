@@ -9,177 +9,177 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _5LetrasBanco
 build_property.RootNamespace = _5LetrasBanco
-build_property.ProjectDir = C:\Users\Aluno\Desktop\sprint 5\5Letras-Banco\
+build_property.ProjectDir = C:\Users\Aluno\Desktop\5LetrasBanco\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Aluno\Desktop\sprint 5\5Letras-Banco
+build_property.MSBuildProjectDirectory = C:\Users\Aluno\Desktop\5LetrasBanco
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Alunos/Create.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Alunos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Alunos/Delete.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Alunos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Alunos/Details.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Alunos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Alunos/Edit.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Alunos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Alunos/Index.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Alunos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Avaliacao/Create.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Avaliacao/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZhbGlhY2FvXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Avaliacao/Delete.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Avaliacao/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZhbGlhY2FvXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Avaliacao/Details.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Avaliacao/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZhbGlhY2FvXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Avaliacao/Edit.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Avaliacao/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZhbGlhY2FvXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Avaliacao/Index.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Avaliacao/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZhbGlhY2FvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Comentario/Create.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Comentario/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tZW50YXJpb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Comentario/Delete.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Comentario/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tZW50YXJpb1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Comentario/Details.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Comentario/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tZW50YXJpb1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Comentario/Edit.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Comentario/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tZW50YXJpb1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Comentario/Index.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Comentario/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tZW50YXJpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Conteudo/Create.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Conteudo/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGV1ZG9cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Conteudo/Delete.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Conteudo/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGV1ZG9cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Conteudo/Details.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Conteudo/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGV1ZG9cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Conteudo/Edit.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Conteudo/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGV1ZG9cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Conteudo/Index.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Conteudo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGV1ZG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Duvida/Create.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Duvida/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV2aWRhXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Duvida/Delete.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Duvida/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV2aWRhXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Duvida/Details.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Duvida/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV2aWRhXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Duvida/Edit.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Duvida/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV2aWRhXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Duvida/Index.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Duvida/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV2aWRhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Home/Index.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Home/Privacy.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Materias/Create.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Materias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Materias/Delete.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Materias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Materias/Details.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Materias/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Materias/Edit.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Materias/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Materias/Index.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Materias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Professor/Create.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Professor/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Professor/Delete.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Professor/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Professor/Details.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Professor/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Professor/Edit.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Professor/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Professor/Index.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Professor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Shared/Error.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/_ViewImports.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/_ViewStart.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/sprint 5/5Letras-Banco/Views/Shared/_Layout.cshtml]
+[C:/Users/Aluno/Desktop/5LetrasBanco/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-63rvtxc938

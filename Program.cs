@@ -15,8 +15,8 @@ builder.Services.AddControllersWithViews();
 /* builder.Services.AddDbContext<Contexto> //Iara
     (options => options.UseSqlServer("Data Source=SP-1491033\\SQLSENAI;Initial Catalog = 5Letras-Banco;Integrated Security = True;TrustServerCertificate = True")); */
 
-builder.Services.AddDbContext<Contexto> //Renara
-    (options => options.UseSqlServer("Data Source=SP-1491035\\SQLSENAI;Initial Catalog = 5Letras-Banco;Integrated Security = True;TrustServerCertificate = True"));
+/*builder.Services.AddDbContext<Contexto> //Renara
+    (options => options.UseSqlServer("Data Source=SP-1491035\\SQLSENAI;Initial Catalog = 5Letras-Banco;Integrated Security = True;TrustServerCertificate = True")); */
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
