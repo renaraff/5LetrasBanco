@@ -4,3 +4,9 @@
 
 /obj/Debug/net7.0/5LetrasBanco.assets.cache
 /.vs/5LetrasBanco/FileContentIndex
+/obj/Debug/net7.0/5LetrasBanco.assets.cache
+/obj/Debug/net7.0/*
+/obj/Debug/*
+/obj/*
+obj/*
+/bin/Debug/net7.0/5LetrasBanco.dll
