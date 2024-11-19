@@ -1,0 +1,64 @@
+﻿@model IEnumerable<_5LetrasBanco.Models.Professor>
+
+@{
+    ViewData["Title"] = "Professor";
+}
+
+<h1>Professor</h1>
+
+<p>
+    <a asp-action="Create">Cadastrar Novo:</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProfessorNome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProfessorEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProfessorSenha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProfessorGraduacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProfessorDescricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProfessorOcupacao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProfessorNome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProfessorEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProfessorSenha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProfessorGraduacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProfessorDescricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProfessorOcupacao)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

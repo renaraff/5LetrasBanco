@@ -1,0 +1,46 @@
+﻿@model IEnumerable<_5LetrasBanco.Models.Duvida>
+
+@{
+    ViewData["Title"] = "Duvida";
+}
+
+<h1>Duvida</h1>
+
+<p>
+    <a asp-action="Create">Cadastrar Novo:</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AlunoId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Materias)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DuvidaTexto)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AlunoId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Materias.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DuvidaTexto)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
