@@ -10,8 +10,6 @@ namespace _5LetrasBanco.Models
         }
         public DbSet<Alunos>? Alunos { get; set; }
 
-        public DbSet<Avaliacao>? Avaliacao { get; set; }
-
         public DbSet<Comentario>? Comentario { get; set; }
 
         public DbSet<Conteudo>? Conteudo { get; set; }

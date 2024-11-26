@@ -16,7 +16,6 @@
 
   <ItemGroup>
     <Content Remove="Views\Alunos\Details.cshtml" />
-    <Content Remove="Views\Avaliacao\Details.cshtml" />
     <Content Remove="Views\Comentario\Details.cshtml" />
     <Content Remove="Views\Conteudo\Details.cshtml" />
     <Content Remove="Views\Duvida\Details.cshtml" />
